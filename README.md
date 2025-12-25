@@ -1,122 +1,58 @@
-# Bumble Auto-Swipe Speed Control
-> This project provides a configurable automation engine that dynamically adjusts swipe frequency and pacing for Bumble interactions. Bumble Auto-Swipe Speed Control helps avoid detection, reduce repetitive manual effort, and maintain natural on-device behavior patterns while automating swipe workflows.
+# 🐝 bumble-auto-swipe-speed-control - Automate Your Bumble Swiping Experience
 
+## 🛠️ Overview
+Bumble Auto-Swipe Speed Control is a tool designed to automate your swiping on the Bumble app. It optimizes your swiping speed, allowing you to connect with potential matches more efficiently. Whether you are busy or simply want to enhance your experience, this tool will help you swipe smarter, not harder.
 
-<p align="center">
-  <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
-</p>
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/github/release/QuocKhanhMai/bumble-auto-swipe-speed-control.svg)](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases)
 
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:support@appilot.app" target="_blank"><img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://Appilot.app" target="_blank"><img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://discord.gg/xvPWXJXCw7" target="_blank"><img src="https://img.shields.io/badge/Join-Appilot_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Appilot Discord"></a>
-</p>
+## 🚀 Getting Started
 
+### Step 1: System Requirements
+Before you begin, ensure your device meets these basic requirements:
+- Android device with Bumble app installed.
+- Stable internet connection.
+- Sufficient battery life for uninterrupted swiping.
 
+### Step 2: Visit the Releases Page
+To download the latest version of Bumble Auto-Swipe Speed Control, [visit this page to download](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases). 
 
-## Introduction
-This automation tool regulates swipe timing, gesture intervals, and session pacing on Android devices. It replaces the repetitive manual workflow of constant left/right swiping with a controlled, adaptive system. Users and teams benefit from consistent performance, device safety, and reduced operational overhead.
+### Step 3: Download the Software
+On the Releases page, you will find a list of available versions. Click on the link to download the version that suits your needs. 
 
-### Intelligent Gesture Timing & Detection Avoidance
-- Dynamically tunes swipe speed based on device load and app responsiveness.
-- Reduces risk of automation detection through natural-looking gesture intervals.
-- Supports multi-device scaling with stable performance across sessions.
-- Includes configurable rate limits to match human-like behavior patterns.
-- Provides analytics and logs for optimizing swipe strategies.
+### Step 4: Install the Application
+Once the file is downloaded:
+1. Open the downloaded file.
+2. Follow the installation prompts on your screen.
+3. Allow any permissions necessary for the application to run properly.
 
-## Core Features
-| Feature | Description |
-|----------|-------------|
-| Adaptive Swipe Pacing | Adjusts swipe intervals based on device performance and touch latency. |
-| Randomized Gestures | Injects subtle variations into gesture vectors for natural interaction. |
-| Session Rate Limiting | Caps maximum swipes per minute/hour to reduce risk of detection. |
-| Auto Session Recovery | Automatically resumes tasks after app crashes or disconnects. |
-| Multi-Device Support | Coordinates tasks across many Android devices concurrently. |
-| Smart Delay Engine | Introduces micro-delays to mimic real user hesitation patterns. |
-| Background Scheduler | Runs time-based jobs and enforces cooldown periods. |
-| On-Device Logging | Records swipe counts, session duration, and anomaly events. |
-| Configurable Thresholds | Allows tuning of swipe speed, limits, and behavior settings. |
-| Action Verification | Confirms gesture success and retries failed interactions. |
+### Step 5: Set Up Your Bumble Preferences
+After installation:
+1. Open the Bumble Auto-Swipe Speed Control app.
+2. Adjust your swiping speed and other preferences to match your needs.
+3. Make sure your Bumble app is open in the background.
 
----
-## How It Works
-Explain the technical flow in 3–5 steps:
-**Input or Trigger** — The scheduler initiates a swipe cycle based on configured timing rules.
-**Core Logic** — The engine calculates swipe vectors, randomization, and pacing adjustments.
-**Output or Action** — A natural-looking swipe gesture is executed on the Android device.
-**Other Functionalities** — Logging, retries, and session health checks maintain system stability.
-**Safety Controls** — Rate limits, cooldowns, and anomaly detection prevent overuse or device strain.
+### Step 6: Start Automating Your Swipes
+With the app open and your preferences set:
+1. Activate the automation feature.
+2. Watch the app work its magic as it swipes for you!
 
----
-## Tech Stack
-**Language:** Python
-**Frameworks:** Appilot, UI Automator, minimal Appium fallback
-**Tools:** Task scheduler, structured logger, config loader
-**Infrastructure:** Local/device-farm Android workers, queue-based job distribution
+## 💡 Features
+- **Swipe Optimization:** Adjust the speed of your swipes to easily manage your time and increase your matches.
+- **Rate Limiter:** Prevent being flagged by Bumble by controlling how fast you swipe.
+- **Task Scheduling:** Set times for the app to run, so it works even while you are away.
+  
+## 📝 Additional Information
+If you need help or have questions, please check the FAQ section on the Releases page. Look for updates regularly to stay on top of the latest features and improvements.
 
----
-## Directory Structure
-    automation-bot/
-    ├── src/
-    │   ├── main.py
-    │   ├── automation/
-    │   │   ├── tasks.py
-    │   │   ├── scheduler.py
-    │   │   └── utils/
-    │   │       ├── logger.py
-    │   │       ├── proxy_manager.py
-    │   │       └── config_loader.py
-    ├── config/
-    │   ├── settings.yaml
-    │   ├── credentials.env
-    ├── logs/
-    │   └── activity.log
-    ├── output/
-    │   ├── results.json
-    │   └── report.csv
-    ├── requirements.txt
-    └── README.md
+### Important Notes
+- Always ensure your Bumble app is updated to the latest version to maintain compatibility.
+- Use the automation feature wisely; it is important to follow Bumble's guidelines to avoid any account issues.
 
----
-## Use Cases
-- **Solo users** use it to automate swipe sessions so they can maintain consistent activity without manual effort.
-- **Marketing or research teams** use it to run controlled device experiments so they can analyze engagement patterns at scale.
-- **QA testers** use it to repeatedly trigger swipe gestures so they can validate UI responsiveness under load.
-- **Automation engineers** use it to orchestrate multi-device workflows so they can streamline repetitive testing tasks.
+## 🌐 Additional Resources
+For more information about this project and its development, feel free to explore the repository on GitHub. Your feedback is valuable, and contributions are welcome.
 
----
-## FAQs
-**Does it require a rooted device?**
-No, it works with standard Android setups using UI automation tools.
+If you're ready to enhance your Bumble experience, download now!
 
-**Can I change the swipe speed?**
-Yes, all pacing and interval settings are adjustable in the configuration file.
-
-**Is multi-device coordination supported?**
-The scheduler and queue model allow many devices to run tasks in parallel.
-
-**Does it mimic human-like behavior?**
-Randomized timing, pauses, and swipe variations create more natural interaction patterns.
-
-**Is logging included?**
-Yes, every session logs swipe counts, durations, delays, and errors.
-
----
-## Performance & Reliability Benchmarks
-**Execution Speed:** Typically 30–55 swipe actions per minute depending on device load and configured pacing.
-**Success Rate:** Stable 93–94% over long-running sessions with automatic retries enabled.
-**Scalability:** Designed to coordinate 300–1,000 Android devices via sharded queues and horizontally scaled workers.
-**Resource Efficiency:** Each worker generally uses 8–12% CPU and 150–250MB RAM per active device.
-**Error Handling:** Features structured logs, exponential backoff, automated retries, crash recovery, and anomaly alerts.
-
-
-<p align="center">
-<a href="https://cal.com/app-pilot-m8i8oo/30min" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
- 
-  <a href="https://www.youtube.com/@Appilot-app/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
+### Download & Install
+To start using Bumble Auto-Swipe Speed Control, [visit this page to download](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases) and follow the steps outlined above. Enjoy a better swiping experience that saves you time and effort!
